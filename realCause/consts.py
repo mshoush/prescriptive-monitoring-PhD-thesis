@@ -1,0 +1,3 @@
+REALCAUSE_DATASETS_FOLDER = 'results_realcause'
+N_SAMPLE_SEEDS = 3 # 100
+N_AGG_SEEDS = 100
