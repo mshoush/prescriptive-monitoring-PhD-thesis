@@ -1,0 +1,16 @@
+numpy<1.22
+scipy
+scikit-learn
+pandas
+tqdm
+skranger
+pybind11
+PyGenStability@ git+https://github.com/barahona-research-group/PyGenStability.git
+
+[test]
+xgboost
+lightgbm
+catboost
+pyspark
+pytest
+mapie
